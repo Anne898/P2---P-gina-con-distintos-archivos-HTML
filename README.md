@@ -1,0 +1,2 @@
+# P2---P-gina-con-distintos-archivos-HTML
+Crear una página similar a Wikipedia o un Blog de contenido (conjunto de varias páginas informativas) que tenga lo siguiente: Una temática (tema libre, debe ser apropiado para el ambiente educativo) Una página principal (index.html) que enlace al resto de las páginas Mínimo (5) páginas con contenido de distintos tipos (se pueden combinar, ej. pág #1 con texto e imágenes): texto, imágenes, video, audio Incluir una barra de navegación en todas las páginas que permita navegar entre ellas
